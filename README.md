@@ -4,7 +4,7 @@ I’m a developer with hands-on experience across multiple languages, frameworks
 
 ### 🛠️ Overview of my experience and skills
 <p align="center">
-<img src="https://skillicons.dev/icons?i=py,cs,mysql,javascript,html,css,unity,ubuntu,cpp,tensorflow,bash,nodejs,react,flask,flutter,vite,firebase,linux,windows,mongodb,sklearn,requests,beautifulsoup,selenium,bootstrap,materialui,postman,pycharm,visualstudio,vscode,atom,npm" />
+<img src="https://skillicons.dev/icons?i=py,cs,mysql,javascript,html,css,unity,ubuntu,cpp,tensorflow,bash,nodejs,react,flask,flutter,vite,firebase,linux,windows,mongodb,sklearn,selenium,bootstrap,materialui,postman,pycharm,visualstudio,vscode,atom,npm" />
 </p>
 
 ---
