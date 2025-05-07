@@ -1,10 +1,11 @@
 ## Hello, World! I’m Liron 👋
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,csharp,sql,javascript,html,css,cpp,bash,asm,nodejs,react,flask,aspnet,flutter,vite,firebase,linux,windows,mysql,mongodb,numpy,pandas,matplotlib,sklearn,requests,beautifulsoup,bootstrap,materialui,bcrypt,jwt" />
-</p>
-
 I’m a developer with hands-on experience across multiple languages, frameworks, tools, and core computer science, operating systems and networking concepts. I love building projects and I’m always learning new technologies.
+
+### 🛠️ Overview of my experience and skills
+<p align="center">
+<img src="https://skillicons.dev/icons?i=py,cs,mysql,javascript,html,css,unity,ubuntu,cpp,tensorflow,bash,nodejs,react,flask,flutter,vite,firebase,linux,windows,mongodb,sklearn,requests,beautifulsoup,selenium,bootstrap,materialui,postman,pycharm,visualstudio,vscode,atom,npm" />
+</p>
 
 ---
 
