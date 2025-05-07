@@ -1,4 +1,4 @@
-## Hello, World! I’m Liron 👋
+# Hello World! I’m Liron 👋
 
 I’m a developer with hands-on experience across multiple languages, frameworks, tools, and core computer science, operating systems and networking concepts. I love building projects and I’m always learning new technologies.
 
