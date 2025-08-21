@@ -4,7 +4,7 @@ I’m a developer with hands-on experience across multiple languages, frameworks
 
 ### 🛠️ Overview of my experience and skills
 <p align="center">
-<img src="https://skillicons.dev/icons?i=py,cs,mysql,javascript,html,css,unity,ubuntu,cpp,tensorflow,bash,nodejs,react,flask,flutter,vite,firebase,linux,windows,mongodb,sklearn,selenium,bootstrap,materialui,postman,pycharm,visualstudio,vscode,atom,npm" />
+<img src="https://skillicons.dev/icons?i=py,cs,mysql,javascript,html,css,unity,ubuntu,cpp,bash,nodejs,react,flask,linux,windows,mongodb,sklearn,selenium,bootstrap,postman,pycharm,visualstudio,vscode,atom,npm" />
 </p>
 
 ---
@@ -12,25 +12,23 @@ I’m a developer with hands-on experience across multiple languages, frameworks
 ### 🔧 Primary Skills
 - **Languages I know very well:** Python · C# · SQL · JavaScript
 - **Additional experience with:** C++ · Bash scripting · Assembly  
-- **Machine Learning & Reinforcement Learning**
+- **Machine Learning**
 
 ### 🏗️ Frameworks & Platforms I know how to use
-- **Web & Backend:** Node.js · React · Flask · ASP.NET Core  
-- **Mobile & Cross-Platform:** Flutter  
-- **Cloud & DevOps:** Firebase  
+- **Web & Backend:** Node.js · Flask · .NET Core + EF Core
+- **Game Engines:** Unity
 - **Databases:** MySQL · MongoDB
 
 ### 📚 Libraries & Tools I know how to use
-- **Python:** NumPy · Pandas · Matplotlib · scikit-learn · Requests · BeautifulSoup · and more  
-- **JavaScript/General:** Bootstrap · Material-UI · and more  
-- **Security & Cryptography:** Bcrypt · JWT libraries · and more  
+- **Python:** NumPy · Pandas · Matplotlib · scikit-learn · Requests · and more  
+- **Others:** Bootstrap · React · Bcrypt · JWT libraries · and more
 
 ### 💡 Core Concepts & Principles I know
 - **OOP:** Inheritance · Polymorphism · Encapsulation · Abstraction · and more  
 - **Design Patterns**  
-- **Algorithms & Data Structures:** Queues & Stacks · Linked Lists · and more  
+- **Algorithms & Data Structures:** Queues · Stacks · Linked Lists · and more  
 - **Networking & Operating Systems:** Many networking protocols · TCP/IP · Socket programming · Concurrency & Threading · Linux and Windows advanced concepts · and more  
-- **Security:** Encryption & Decryption · Hashing · Protection from cyber attacks  
+- **Security:** Encryption & Decryption · Hashing · Protection from cyber attacks · and more  
 
 ---
 
